@@ -4,8 +4,12 @@
     "lib": [
       "dom",
       "dom.iterable",
-      "esnext"
+      "esnext",
+      "ES6",
+      "DOM"
     ],
+    "noImplicitAny": true,
+    "strictNullChecks": false,
     "allowJs": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
